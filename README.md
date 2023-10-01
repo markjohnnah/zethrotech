@@ -1,2 +1,2 @@
 # zethrotech
-zthrotech project website
+zethrotech project website
